@@ -1,5 +1,5 @@
-# ss-manager
-manager模式启动ss，通过ssmgr进行管理
+# ssapp
+可manager模式启动ss，通过ssmgr进行管理
 
 ***启动到manager模式命令：***
 
